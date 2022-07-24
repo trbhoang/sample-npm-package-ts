@@ -1,6 +1,6 @@
 {
   "name": "@trbhoang/sample-npm-package-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "sample npm package using typescript",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
