@@ -6,6 +6,8 @@ package-lock.json
 tslint.json
 tsconfig.json
 .prettierrc
+.editorconfig
+.release-it.json
 
 # github
 .github
